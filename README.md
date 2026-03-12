@@ -1,7 +1,7 @@
 - **Gender**: illegal
 - **Pronouns**: They/Them v Hän/Hen
 - **OS**: Nyarch & Windows (forced to use it ew)
-- **Homelab**: 2x F5 BigIP Load Balancers | 2x X99 Chinese boards with fake Xeons | 1x UniFi USG | 1x CISCO thingie
+- **Homelab**: 2x F5 BigIP Load Balancers | 2x X99 Chinese boards with fake Xeons | 1x UniFi USG | Dell M1000e
 - **Prog langs**: C, C++ & Python. Learning Lua.
 - **Interests**: Linux security tinkering. Had Linux as daily driver since 2018. I also do some NeoStumbler data collection.
 
